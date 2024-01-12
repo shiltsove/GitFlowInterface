@@ -1,2 +1,3 @@
 # GitFlowInterface
-Demo repo handling throught the browser.
+Demo repo handling through the browser.
+Sample change 1
